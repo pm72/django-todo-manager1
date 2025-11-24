@@ -1,1 +1,3 @@
-Django TODO PROJECT
+# Django TODO PROJECT
+
+## Todo project manager
